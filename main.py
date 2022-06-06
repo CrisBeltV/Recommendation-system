@@ -78,7 +78,3 @@ def UserPreferences(df_platos,df_rankingUsers, User):
 
     return platosuser1
 
-
-#S= RecommendationSystem('Dina@132')
-
-#print(S)
