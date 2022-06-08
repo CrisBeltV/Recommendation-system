@@ -12,6 +12,9 @@ La recomendación se hace a partir de una “base de datos” (realmente es solo
 
 La interface grafica permite consultar el plato mas recomendado de un usuario particular al igual que permite cambiar a una pantalla diferente que deja ingresar nuevos registros en nuestra base de usuarios y platos (el Excel), con estos nuevos registros ya se podrá pedir una recomendación del usuario nuevo o bien actualizará la lista de recomendación de platos de un usuario existente al ingresar un nuevo conjunto de ingredientes, es decir un nuevo plato, acompañado de una valoración del plato. Esto es algo similar a cuando se da una calificación en estrellas o puntos a un producto este valor tendrá un peso en las valoraciones de los platos que ayudara a ponderar la clasificación de la recomendación de los platos de comida.
 
+# Video demo
+https://youtu.be/WkcRxq_WSQg
+
 Proyectos de los que me apoye.
 - https://github.com/MariyaSha/BinarytoDecimal
 
